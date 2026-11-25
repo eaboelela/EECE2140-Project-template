@@ -1,0 +1,23 @@
+# Compiled binaries
+*.o
+*.exe
+*.out
+main
+project
+
+# macOS debug symbols
+*.dSYM/
+
+# Visual Studio artifacts
+.vs/
+Debug/
+Release/
+x64/
+*.vcxproj.user
+
+# CLion artifacts
+.idea/
+cmake-build-*/
+
+# macOS metadata
+.DS_Store

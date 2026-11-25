@@ -1,0 +1,17 @@
+Paste this block at the top of EVERY .h and .cpp file you create in src/,
+then fill it in. This file is not compiled; you may delete it before the
+final submission.
+
+/*
+ * Author(s):    [name(s) of the member(s) who wrote this file]
+ * Course:       EECE 2140 - Computing Fundamentals for Engineers
+ * Semester:     Fall 2026
+ * Assignment:   Course Project - [Project Title]
+ * File:         [FileName.h or FileName.cpp]
+ * Description:  [What this class or file is responsible for, in one to
+ *               three sentences.]
+ */
+
+In each header (.h) file, also document every public member function
+with a short comment directly above its declaration: what it does, its
+parameters, and its return value.
